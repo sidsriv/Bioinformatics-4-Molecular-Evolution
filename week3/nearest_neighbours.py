@@ -1,5 +1,3 @@
-__author__ = 'Siddhant Srivastava'
-
 import sys
 from collections import defaultdict
 from copy import copy, deepcopy
